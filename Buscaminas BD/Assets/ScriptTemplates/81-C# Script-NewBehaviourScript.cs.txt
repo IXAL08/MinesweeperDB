@@ -1,0 +1,9 @@
+using UnityEngine;
+
+namespace MineSweeper
+{
+    public class #SCRIPTNAME# : MonoBehaviour
+    {
+        
+    }
+}
